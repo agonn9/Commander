@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "+drow2mJdZ2cC2+0XeQXum9++q8ybbYtFA5RQocun5H7A+1H91Wl3goCw7DPGwGsSsuAVL4qZgREA1KUA07rzg==",
+  "dgSpecHash": "rGAzRVTGy3Z6NXPQ3BvIYY/eGHhQZ9efvjOPJe7hT37SkStPs730AtLodChkrGAzwKFRI0EElf+1VxMDlLKWiQ==",
   "success": true,
   "projectFilePath": "/Users/agonbojaj/Desktop/Projects .NET/Commander/Commander.csproj",
   "expectedPackageFiles": [
+    "/Users/agonbojaj/.nuget/packages/automapper/7.0.1/automapper.7.0.1.nupkg.sha512",
+    "/Users/agonbojaj/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/5.0.1/automapper.extensions.microsoft.dependencyinjection.5.0.1.nupkg.sha512",
+    "/Users/agonbojaj/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
+    "/Users/agonbojaj/.nuget/packages/microsoft.aspnetcore.jsonpatch/5.0.14/microsoft.aspnetcore.jsonpatch.5.0.14.nupkg.sha512",
+    "/Users/agonbojaj/.nuget/packages/microsoft.aspnetcore.mvc.newtonsoftjson/5.0.14/microsoft.aspnetcore.mvc.newtonsoftjson.5.0.14.nupkg.sha512",
+    "/Users/agonbojaj/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/microsoft.entityframeworkcore/5.0.10/microsoft.entityframeworkcore.5.0.10.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/microsoft.entityframeworkcore.abstractions/5.0.10/microsoft.entityframeworkcore.abstractions.5.0.10.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/microsoft.entityframeworkcore.analyzers/5.0.10/microsoft.entityframeworkcore.analyzers.5.0.10.nupkg.sha512",
+    "/Users/agonbojaj/.nuget/packages/microsoft.entityframeworkcore.design/5.0.10/microsoft.entityframeworkcore.design.5.0.10.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/microsoft.entityframeworkcore.relational/5.0.10/microsoft.entityframeworkcore.relational.5.0.10.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/microsoft.extensions.caching.abstractions/5.0.0/microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
@@ -19,6 +26,8 @@
     "/Users/agonbojaj/.nuget/packages/microsoft.extensions.options/5.0.0/microsoft.extensions.options.5.0.0.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/agonbojaj/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512",
+    "/Users/agonbojaj/.nuget/packages/newtonsoft.json.bson/1.0.2/newtonsoft.json.bson.1.0.2.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/npgsql/5.0.10/npgsql.5.0.10.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/npgsql.entityframeworkcore.postgresql/5.0.10/npgsql.entityframeworkcore.postgresql.5.0.10.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
@@ -28,7 +37,8 @@
     "/Users/agonbojaj/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "/Users/agonbojaj/.nuget/packages/system.diagnostics.diagnosticsource/5.0.1/system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512",
-    "/Users/agonbojaj/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    "/Users/agonbojaj/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder/system.valuetuple/4.5.0/system.valuetuple.4.5.0.nupkg.sha512"
   ],
   "logs": []
 }
